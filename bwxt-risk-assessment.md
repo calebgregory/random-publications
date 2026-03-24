@@ -12,6 +12,8 @@ BWX Technologies (BWXT) has a $1.6 billion DOE/NNSA contract to become the natio
 
 **My context:** I live ~5 miles west (downwind) of the facility. The rezoning is approved. My goal is to rationally understand the risk, monitor the regulatory process going forward, and advise friends in the community.
 
+> _Disclaimer / transparency:  I used Claude Code with Opus 4.6 to research and write this report._
+
 ---
 
 ## Key Risk Dimensions
@@ -47,6 +49,7 @@ Jonesborough's regional water system serves a large portion of Washington County
 **My situation:** I'm on Johnson City water (Watauga River). My drinking water is not in the path of a Little Limestone Creek contamination event. This substantially reduces my personal waterborne exposure risk. However, friends and neighbors on the Jonesborough Regional Water System are directly exposed.
 
 **Other water exposure considerations:**
+
 - Private wells in the area may draw from karst aquifers that connect to Little Limestone Creek's subsurface network (see Karst Geology section below)
 - Recreational use of the Nolichucky River (fishing, swimming, rafting) creates another exposure pathway
 - Agricultural use — farms irrigating from the Nolichucky or its tributaries
@@ -119,6 +122,7 @@ What could actually go wrong, how would it reach you, and what would you do? The
 **How you'd know:** You probably wouldn't, at first. This is the insidious scenario — detectable only through systematic water and soil monitoring. By the time it shows up in health statistics, decades of exposure have occurred.
 
 **What to do:**
+
 - Support independent baseline water and soil sampling NOW, before full-scale production begins. This is the single highest-value community action. Without a baseline, you can't prove contamination came from BWXT.
 - Request TDEC's monthly monitoring reports (Division of Radiological Health performs monthly independent monitoring of air and water). Make this data public and track trends.
 - If you have friends on private wells near the site, encourage them to get baseline water testing for uranium, fluoride, and heavy metals.
@@ -128,6 +132,7 @@ What could actually go wrong, how would it reach you, and what would you do? The
 **What happens:** A valve failure, pipe rupture, or process upset releases anhydrous hydrogen fluoride. HF is denser than air and forms a ground-hugging toxic plume that drifts downwind.
 
 **Scale and precedent:**
+
 - **Gumi, South Korea (2012):** 8 tons of HF leaked from a chemical plant. 5 killed, 12,243 people treated for symptoms. Evacuation initially 1.5 km, later expanded. Symptoms reported beyond 1 km included sore throat, headache, cough, eye irritation. Damaged 2.4 km² of agricultural land and 3,200 livestock.
 - **Marathon Petroleum, Texas (1987):** 24 tons of HF spilled. 3,000 residents evacuated within 800m within 20 minutes.
 - **Philadelphia Energy Solutions (2019):** HF release from mechanical failure created a ground-hugging toxic vapor cloud.
@@ -138,6 +143,7 @@ What could actually go wrong, how would it reach you, and what would you do? The
 **How you'd know:** Emergency alerts, smell (HF has a sharp, pungent odor detectable at low concentrations), news reports. BWXT is required to have an emergency plan filed with the NRC and coordinated with local emergency services.
 
 **What to do:**
+
 - Know your county's emergency alert system. Make sure you receive Washington County emergency notifications.
 - In an HF release: **go indoors, close windows and doors, turn off HVAC systems that draw outside air.** HF is water-soluble and heavier than air — sheltering in an upper floor of a sealed building is protective.
 - If you smell a sharp chemical odor or receive an alert: do not go outside to investigate. Shelter in place until all-clear.
@@ -154,6 +160,7 @@ What could actually go wrong, how would it reach you, and what would you do? The
 **Your exposure:** Low direct exposure (you're not in the flood corridor and not on Nolichucky water). Friends on Jonesborough water could face water-supply disruption.
 
 **What to do:**
+
 - After any major flood event in the area, demand immediate public reporting of facility status — was containment maintained? Was any material released? What monitoring was done?
 - A flood that disrupts BWXT operations would likely also disrupt water treatment. Have stored water (FEMA recommends 1 gallon/person/day for at least 3 days).
 
@@ -166,6 +173,7 @@ What could actually go wrong, how would it reach you, and what would you do? The
 **Your exposure:** Smoke plumes from industrial fires can carry particulates for miles. At 5 miles downwind, you could be exposed to smoke and airborne uranium particulates. This is one of the scenarios where your distance is less protective than for routine emissions, because fire lofts material higher and farther than normal stack emissions.
 
 **What to do:**
+
 - Same as HF release: shelter in place, seal the building, turn off HVAC.
 - Monitor air quality. A consumer-grade PM2.5 monitor (like a PurpleAir sensor) won't detect uranium specifically but will tell you if particulate levels are elevated.
 - If smoke is visible from your location, consider voluntary evacuation upwind until all-clear.
@@ -177,6 +185,7 @@ What could actually go wrong, how would it reach you, and what would you do? The
 **Your exposure:** Depends entirely on whether the accident happens on a road near you. The feedstock and waste shipment routes haven't been publicly detailed.
 
 **What to do:**
+
 - During NEPA review, demand disclosure of planned transportation routes for hazardous materials. Know which roads are on those routes.
 - Standard hazmat accident guidance applies: stay upwind, stay upstream, stay uphill. Minimum 300m distance from a hazmat spill.
 
@@ -189,6 +198,7 @@ What could actually go wrong, how would it reach you, and what would you do? The
 **Your exposure:** Primarily through property values and community health over very long timeframes. If karst conduits connect the facility to groundwater sources you use (even indirectly), there's a slow-accumulation risk.
 
 **What to do:**
+
 - This is the argument for sustained, long-term independent monitoring — not just during the controversy, but for decades.
 - Support any efforts to establish a formal community monitoring program with independent funding (not reliant on BWXT's goodwill).
 - Track whether BWXT or DOE establishes a formal site environmental monitoring program with publicly available data.
@@ -250,19 +260,19 @@ If you're on Jonesborough water, your situation is fundamentally different. Jone
 
 **Ongoing — once production is operational:**
 
-6. **Track TDEC monitoring data.** TDEC's Division of Radiological Health performs monthly independent monitoring of air and water for radioactive effluents at the facility. Request this data regularly. It's public information.
+1. **Track TDEC monitoring data.** TDEC's Division of Radiological Health performs monthly independent monitoring of air and water for radioactive effluents at the facility. Request this data regularly. It's public information.
 
-7. **Support independent water monitoring.** Community-funded independent sampling of Little Limestone Creek and the Nolichucky upstream and downstream of the facility, conducted quarterly or after significant weather events. This creates accountability that doesn't depend on BWXT or TDEC.
+2. **Support independent water monitoring.** Community-funded independent sampling of Little Limestone Creek and the Nolichucky upstream and downstream of the facility, conducted quarterly or after significant weather events. This creates accountability that doesn't depend on BWXT or TDEC.
 
-8. **Engage in the NEPA process.** When DOE/NNSA conducts the required environmental review for the full-scale facility, submit comments demanding:
+3. **Engage in the NEPA process.** When DOE/NNSA conducts the required environmental review for the full-scale facility, submit comments demanding:
    - Detailed spill-scenario modeling for Little Limestone Creek → Nolichucky → water intake
    - Specific emergency notification protocols for downstream water systems
    - Continuous (not just periodic) water monitoring at the creek-to-river confluence
    - A formal agreement between BWXT and Jonesborough's water system for emergency communication
 
-9. **Watch the NPDES water permit renewal.** The existing discharge permit (TN0057983) is currently being renewed. The new HPDU chemical processes will change the waste stream. This is a public comment opportunity — use it.
+4. **Watch the NPDES water permit renewal.** The existing discharge permit (TN0057983) is currently being renewed. The new HPDU chemical processes will change the waste stream. This is a public comment opportunity — use it.
 
-10. **Know your fallback water options.** If Jonesborough water is shut down due to upstream contamination, where do you get water? Johnson City's system (Watauga watershed) is independent. Bottled water. Mutual aid from neighboring systems. Think about this before you need it.
+5. **Know your fallback water options.** If Jonesborough water is shut down due to upstream contamination, where do you get water? Johnson City's system (Watauga watershed) is independent. Bottled water. Mutual aid from neighboring systems. Think about this before you need it.
 
 ---
 
@@ -316,20 +326,20 @@ If you're on a private well in the area around the BWXT facility, your risk prof
 
 **Ongoing — once production is operational:**
 
-5. **Test your well water annually.** The same panel as your baseline. Track changes over time. This costs $90-200/year — a modest price for knowing what you're drinking.
+1. **Test your well water annually.** The same panel as your baseline. Track changes over time. This costs $90-200/year — a modest price for knowing what you're drinking.
 
-6. **Test after major weather events.** Heavy rains and floods flush contaminants through karst systems rapidly. If there's a major storm or flood in the area, test your water within a few weeks.
+2. **Test after major weather events.** Heavy rains and floods flush contaminants through karst systems rapidly. If there's a major storm or flood in the area, test your water within a few weeks.
 
-7. **Consider a reverse osmosis (RO) system.** An under-sink RO system ($200-500) removes uranium, fluoride, and most dissolved contaminants. It's not necessary if your current levels are safe, but it's a meaningful layer of protection if you're in a karst-connected area near the facility. RO systems need filter replacement (~$50-100/year).
+3. **Consider a reverse osmosis (RO) system.** An under-sink RO system ($200-500) removes uranium, fluoride, and most dissolved contaminants. It's not necessary if your current levels are safe, but it's a meaningful layer of protection if you're in a karst-connected area near the facility. RO systems need filter replacement (~$50-100/year).
 
-8. **Connect with neighbors who are also on wells.** Multiple wells being tested creates a monitoring network. If contamination shows up in one well, neighboring wells should be tested immediately. A community-organized well-testing program is far more powerful than individual action.
+4. **Connect with neighbors who are also on wells.** Multiple wells being tested creates a monitoring network. If contamination shows up in one well, neighboring wells should be tested immediately. A community-organized well-testing program is far more powerful than individual action.
 
-9. **Engage in the NEPA process.** When DOE/NNSA conducts the environmental review, demand:
+5. **Engage in the NEPA process.** When DOE/NNSA conducts the environmental review, demand:
    - Karst hydrogeological characterization of the site and surrounding area — where do the subsurface conduits go?
    - Groundwater monitoring wells between the facility and the nearest private wells
    - A private well monitoring program funded by BWXT or DOE for wells within a defined radius
 
-10. **Know when to stop drinking the water.** If any test shows uranium above 30 µg/L, fluoride above 4 mg/L, or gross alpha above 15 pCi/L, switch to bottled or filtered water immediately and contact TDEC. These are EPA MCLs — exceeding them means the water is not safe for long-term consumption.
+6. **Know when to stop drinking the water.** If any test shows uranium above 30 µg/L, fluoride above 4 mg/L, or gross alpha above 15 pCi/L, switch to bottled or filtered water immediately and contact TDEC. These are EPA MCLs — exceeding them means the water is not safe for long-term consumption.
 
 ### The hard truth about private wells and karst
 
