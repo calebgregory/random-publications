@@ -1,5 +1,20 @@
 # BWXT HPDU Facility Expansion — Risk Assessment & Findings
 
+## Table of Contents
+
+1. [Background](#background) — What BWXT is building, the rezoning outcome, and who wrote this
+2. [Key Risk Dimensions](#key-risk-dimensions) — The seven factual risk categories: air emissions, chemical hazards, water exposure, karst geology, historical precedent, BWXT's "same process" framing, and regulatory sequencing
+3. [Concrete Risk Scenarios and Preparedness](#concrete-risk-scenarios-and-preparedness) — Six things that could go wrong, how they'd reach you, and what to do. Includes a personal risk summary at 5 miles on Johnson City water.
+4. [Risk Profile: Friends on Jonesborough Water](#risk-profile-friends-on-jonesborough-regional-water-system) — If you're on the Jonesborough Regional Water System, you are directly downstream of the facility. Different risk calculus, different actions.
+5. [Risk Profile: Friends on Private Wells](#risk-profile-friends-on-private-wells) — Private wells in karst terrain near a chemical facility have the least institutional protection. Specific testing guidance, labs, costs, and thresholds.
+6. [Evaluating Argument Quality — Both Sides](#evaluating-argument-quality--both-sides) — Where BWXT's arguments are strong, where they're evasive, where the opposition is on solid ground, and where it overreaches
+7. [What Levers Remain](#what-levers-remain) — Seven regulatory and civic channels still open: NEPA, air permitting, water permits, independent monitoring, legal challenge
+8. [Action Items — What To Do Now](#action-items--what-to-do-now) — Prioritized checklist organized by urgency: do now, do soon, maintain ongoing, emergency response, and when to stop drinking the water
+9. [Key Scientists Referenced](#key-scientists-referenced)
+10. [Sources](#sources)
+
+---
+
 ## Background
 
 BWX Technologies (BWXT) has a $1.6 billion DOE/NNSA contract to become the nation's sole producer of high-purity depleted uranium (HPDU) metal, used for nuclear weapons maintenance and tank armor. They are expanding their existing Jonesborough, TN facility — an industrial site for 55+ years — and rezoned ~56 acres of agricultural land (A-1) to heavy industrial (M-2).
@@ -419,6 +434,75 @@ Requires consultation with Cherokee Nation and Eastern Band of Cherokee Indians.
 ### 7. Legal Challenge
 
 The spot-zoning arguments in Report 02 provide a potential basis for challenging the rezoning, though this is expensive and uncertain. The 10-5 vote suggests limited political appetite for reversal.
+
+---
+
+## Action Items — What To Do Now
+
+The rezoning is approved. The facility is coming. What follows is not about stopping it — it's about protecting yourself and your community through the regulatory process that remains and through direct action you can take today. These are organized by urgency.
+
+### Do now — before full-scale production begins (pilot starts late 2026)
+
+**If you're on a private well near the facility:**
+
+- [ ] **Get your well water tested immediately.** Test for uranium (~$35), fluoride, gross alpha/beta radiation, nitrate, heavy metals, pH. This baseline is your proof of pre-production water quality. Without it, you cannot prove future contamination came from BWXT. See the [Private Wells section](#risk-profile-friends-on-private-wells) for specific labs and costs ($35-200 depending on panel).
+- [ ] **Identify your well's geology and check for nearby sinkholes.** Wells in limestone/dolomite (Knox Group, Chickamauga Group, Jonesboro Limestone) are in karst rock — vulnerable to rapid, unpredictable contaminant transport. Sinkholes nearby mean your well is more connected to surface events.
+
+**If you're on Jonesborough water:**
+
+- [ ] **Get a copy of the most recent Jonesborough water quality report.** Note current levels for uranium, fluoride, gross alpha/beta, and heavy metals. This is your "before" snapshot.
+- [ ] **Ask Jonesborough's water department:** Does the treatment plant test for uranium? How often? What triggers a shutdown or public advisory? Is there an emergency protocol for upstream chemical releases?
+- [ ] **Store water.** A week's supply (1 gallon/person/day). Given the specific risk of upstream contamination to the Nolichucky, this is cheap insurance.
+
+**Everyone in the area:**
+
+- [ ] **Sign up for Washington County emergency alerts.** In an acute HF release or spill, the window between event and exposure may be short.
+- [ ] **Support independent baseline water and soil sampling** of Little Limestone Creek and the Nolichucky upstream/downstream of the facility. Community-funded, independent of BWXT and TDEC. This is the single highest-value collective action.
+- [ ] **Request TDEC's monthly monitoring data.** The Division of Radiological Health performs monthly independent monitoring of air and water at the facility. This is public information — request it and make it visible.
+
+### Do soon — engage the regulatory process
+
+These are the remaining levers where community input has legal standing. They matter more than the rezoning fight did, because this is where the actual technical scrutiny happens.
+
+- [ ] **Push for a full Environmental Impact Statement (EIS)** during the NEPA review, rather than a lighter Environmental Assessment (EA). The case is strong: $1.6B sole-source national facility, novel production-scale process, karst/floodplain setting, every prior comparable facility became a Superfund site. A full EIS requires more public participation and consideration of alternatives. This is the biggest remaining lever.
+- [ ] **Comment on the NPDES water permit renewal** (permit TN0057983, currently being renewed). The new HPDU chemical processes change the waste stream. This is a public comment opportunity.
+- [ ] **Watch for the full-scale air quality review.** The current "insignificant activity" determination covers only the pilot plant (~20 MT/year). The 15-20x scale-up to full production will need its own review. Watch whether BWXT files this as another "insignificant activity" or whether TDEC requires a full air permit.
+- [ ] **When NEPA public comment opens, demand specific things:**
+  - Air dispersion modeling with receptor-distance analysis (schools, residences)
+  - Child-protective risk evaluation (standard EPA methodology, not "rhetoric")
+  - Spill-scenario modeling: Little Limestone Creek → Nolichucky → water intake
+  - Karst hydrogeological characterization — where do the subsurface conduits go?
+  - Groundwater monitoring wells between the facility and nearest private wells
+  - Emergency notification protocols for downstream water systems
+  - Hazardous materials transportation route disclosure
+  - A private well monitoring program funded by BWXT or DOE
+
+### Maintain ongoing — once production is operational
+
+- [ ] **Private well owners: test annually** (same panel as baseline, $90-200/year) and **after major weather events** (floods flush contaminants through karst rapidly).
+- [ ] **Track TDEC monitoring data over time.** Look for trends, not just single readings.
+- [ ] **Support a sustained, independent community monitoring program** — not just during the controversy, but for decades. This is the pattern that catches slow-accumulation contamination before it becomes a health crisis.
+- [ ] **Consider a reverse osmosis system** ($200-500 under-sink) if you're on a private well or Jonesborough water. Removes uranium, fluoride, and most dissolved contaminants. Filter replacement ~$50-100/year.
+
+### Know your emergency response
+
+For an acute event (HF release, fire, spill):
+
+1. **Go indoors.** Close windows and doors. Turn off HVAC systems that draw outside air.
+2. **Shelter on an upper floor** if possible — HF is heavier than air and hugs the ground.
+3. **Do not go outside to investigate** a chemical smell or visible plume. Wait for all-clear.
+4. **Have a go bag and evacuation route** that takes you upwind (generally east/north from the facility).
+5. **After a flood:** demand immediate public reporting of facility status before resuming use of Nolichucky-sourced water.
+
+### Know when to stop drinking the water
+
+If any well or water test shows these levels, switch to bottled or filtered water immediately and contact TDEC:
+
+| Contaminant | EPA MCL (maximum safe level) |
+|-------------|------------------------------|
+| Uranium | 30 µg/L |
+| Fluoride | 4 mg/L (secondary standard: 2 mg/L) |
+| Gross alpha | 15 pCi/L |
 
 ---
 
