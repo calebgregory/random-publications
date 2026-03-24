@@ -438,12 +438,12 @@ The spot-zoning arguments in Report 02 provide a potential basis for challenging
 - [Scientists weigh in on health, environmental impact of BWXT proposal (WJHL)](https://www.wjhl.com/news/local/scientists-weigh-in-on-health-environmental-impact-of-bwxt-proposal/)
 - [BWXT in Jonesborough (bwxt.com)](https://www.bwxt.com/who-we-are/bwxt-in-jonesborough/)
 - [TDEC BWXT FAQ](https://www.tn.gov/environment/oea/citizen/bwxt-faq.html)
-- Aaron Knott, Report 01: Comprehensive Plan and Zoning Resolution in Proposed BWXT Rezoning
-- Aaron Knott, Report 02: Analysis of Potential Spot Zoning in BWXT Rezoning Request
-- Aaron Knott, Report 04: Hazardous Facilities in Floodplains
-- Aaron Knott, Report 06: Karst Geology Around Little Limestone Creek
-- BWXT Community Questions and Answers (Jan 14, 2026)
-- BWXT Follow-Up to Questions and Answers (Feb 18, 2026)
+- [Aaron Knott, Report 01: Comprehensive Plan and Zoning Resolution in Proposed BWXT Rezoning](https://static1.squarespace.com/static/690dff1c5f6f2e7b5fc05c0f/t/69573e6da0a49914a06cc362/1767325293304/REPORT+01_+Comprehensive+Plan+and+Zoning+Resolution+in+Proposed+BWXT+Rezoning_Disclaimer.pdf)
+- [Aaron Knott, Report 02: Analysis of Potential Spot Zoning in BWXT Rezoning Request](https://static1.squarespace.com/static/690dff1c5f6f2e7b5fc05c0f/t/69573ef4c497aa3f64b400e8/1767325428671/REPORT+02_ANALYSIS+OF+POTENTIAL+SPOT+ZONING+IN+BWXT+REZONING+REQUEST+%28A%E2%80%911+%E2%86%92+M%E2%80%912%29_Disclaimer.pdf)
+- [Aaron Knott, Report 04: Hazardous Facilities in Floodplains](https://static1.squarespace.com/static/690dff1c5f6f2e7b5fc05c0f/t/69573f4699c9830913e24d4e/1767325510650/REPORT+04_Hazardous+Facilities+in+Floodplains.pdf)
+- [Aaron Knott, Report 06: Karst Geology Around Little Limestone Creek](https://static1.squarespace.com/static/690dff1c5f6f2e7b5fc05c0f/t/69651cc80180ac2e18995715/1768234184971/REPORT+06_+Karst+Geology.pdf)
+- [BWXT Community Questions and Answers (Jan 14, 2026)](https://www.bwxt.com/wp-content/uploads/2026/01/26-01-14-BWXT-Community-Questions-and-Answers-FINAL.pdf)
+- [BWXT Follow-Up to Questions and Answers (Feb 18, 2026)](https://www.bwxt.com/wp-content/uploads/2026/02/Follow-Up-to-Questions-and-Answers-from-BWXT-FINAL-02-19-26.pdf)
 - BWXT Insignificant Activity Notification to TDEC (May 14, 2025)
 - [Jonesborough Water Treatment](https://www.jonesboroughtn.org/town-services/water-and-wastewater/water-treatment/) — raw water from Nolichucky River, plant near Lamar Community
 - [Johnson City Water & Sewer Services](https://www.johnsoncitytn.org/services/water_sewer_services/index.php) — Watauga River (80%) + Unicoi Springs (20%)
